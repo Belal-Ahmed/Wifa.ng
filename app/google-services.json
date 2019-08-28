@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423675727949",
+    "firebase_url": "https://wifaandroidapp.firebaseio.com",
+    "project_id": "wifaandroidapp",
+    "storage_bucket": "wifaandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423675727949:android:d90e3922c0b06222",
+        "android_client_info": {
+          "package_name": "com.storerepublic.wifaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423675727949-vtuhuamcv4b4j41r7ca5hp2pfdaf6cdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKn2oKdM4YfEqxkSDN410zd3FJi_PNl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423675727949-vtuhuamcv4b4j41r7ca5hp2pfdaf6cdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
